@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="background">
+    <file>down_arrow.svg</file>
+    <file>lol.png</file>
+    <file>ig.png</file>
+  </qresource>
+</RCC>
